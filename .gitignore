@@ -1,2 +1,12 @@
 
 *.xmind
+
+Hardware/Datasheets/
+
+Hardware/RemoteCar_V1.0/__Previews/
+
+Hardware/RemoteCar_V1.0/History/
+
+*.PrjPcb
+
+*.PrjPcbStructure
